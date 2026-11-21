@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Streamtape AdBlock
+! Version: 2026112101
+! Last modified: 2026-11-21
+! Expires: 7 days
+! Homepage: https://github.com/jaredmLTK/streamtape-adblock
+! Scope: The observed player at advtpe.com
+! Ad window opened from the player. Evidence: E1 in EVIDENCE.md.
+||go.greentrafsa.com^$popup,domain=advtpe.com
+! Ordinary requests to the same destination from the player. Evidence: E1.
+||go.greentrafsa.com^$domain=advtpe.com

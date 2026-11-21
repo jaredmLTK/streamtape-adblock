@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Streamtape AdBlock — Experimental notes
+! Review only. All candidates below are comments.
+! Third-party script references. Playback impact is unknown.
+! ||ij.cobolgammed.com^$script,domain=advtpe.com
+! ||is.conermoocher.com^$script,domain=advtpe.com
+! ||sg.pilotijuly.com^$script,domain=advtpe.com
+! First-party statistics. Player dependency is unknown.
+! ||advtpe.com/stat/*$xmlhttprequest,domain=advtpe.com
